@@ -1,0 +1,126 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.main{
+    width:450px;
+    padding: 10px;
+}
+.mainTop{
+    width: 100%;
+    height: 37px;
+    margin: 10px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.btnleft{
+    height: 33px;
+    float: left;
+    width: 33%;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    color:#666666;
+    border-bottom: 3px solid white;
+}
+.btnright{
+    height: 33px;
+    float: left;
+    width: 33%;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    color:#666666;
+    border-bottom: 3px solid white;
+}
+.bottomLine{
+    height: 33px;
+    float: left;
+    width: 33%;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    color:#2f63ba;
+    border-bottom: 3px solid #2f63ba;
+}
+
+.mainTop>div:nth-child(1){
+    border-right:1px solid #ccc;
+}
+.mainTop>img{
+    float: right;
+    display: block;
+    width:123px;
+    height: 24px;
+    margin-top: 5px;
+}
+.disTwo .disOne{
+    width: 200px;
+    height: 30px;
+    background: red;
+    float: left;
+    /*padding: 0px 10px;*/
+    /*display: none;*/
+}
+.rightcon{
+    width: 450px;
+    height: 82px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+.rightcon>div:nth-child(1){
+    width: 118px;
+    float: left;
+}
+.rightcon>div:nth-child(2){
+    width: 310px;
+    float: right;
+}
+.fon{
+    color:#336699;
+}
+.tip{
+    width:67px;
+    height: 18px;
+    border:1px solid #d5d5d5;
+    border-radius: 3px;
+    color:#2e7ad6;
+    text-align: center;
+    line-height: 18px;
+    font-size: 13px;
+    margin-left: 229px;
+    margin-top: 20px;
+}
+.disOne{
+    width: 450px;
+    float: left;
+    display: block;
+    padding: 0px 10px;
+
+}
+.leftcon{
+    width: 450px;
+    height: 70px;
+
+}
+.leftcon>div:nth-child(1){
+    width: 6px;
+    height: 7px;
+    background: #da4453;
+    float: left;
+    margin-top: 7px;
+}
+.leftcon>div:nth-child(2){
+    float: right;
+    width: 435px;
+}
+.leftcon>div:nth-child(2)>h4{
+    font-size:22px;
+    color:#222222;
+}
+.leftcon>div:nth-child(2)>p{
+    font-size:13px;
+    color:#222222;
+    margin-top: 10px;
+}

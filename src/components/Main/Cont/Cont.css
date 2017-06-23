@@ -1,0 +1,88 @@
+.cont{
+    width:100%;
+    height: 350px;
+    background: red;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    background:url("Images/home_02.jpg")no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+}
+.odivOne{
+    float: left;
+    height: 350px;
+}
+.odivTwo{
+    float: left;
+    width: 250px;
+    height: 350px;
+    background: #aacd03;
+}
+.odivThree{
+    float: left;
+    width: 250px;
+    height: 350px;
+    background: #72af2d;
+}
+.odivFour{
+    float: left;
+    width: 250px;
+    height: 350px;
+    background: #34925c;
+}
+.odivFive{
+    float: left;
+    width: 250px;
+    height: 350px;
+    background: #006d5d;
+}
+.odivSix{
+    float: left;
+    height: 350px;
+}
+.cont img{
+    margin-top: 40px;
+}
+.cont h2{
+    color: #ffffff;
+    line-height: 60px;
+}
+.cont p{
+    width:200px;
+    margin: auto;
+    font-size: 14px;
+    line-height: 25px;
+    font-family: 微软雅黑;
+    color: #ffffff;
+}
+.more{
+    width: 120px;
+    height: 40px;
+    margin: auto;
+    margin-top: 20px;
+    line-height: 40px;
+    font-size: 14px;
+    border: 2px solid #ffffff;
+    border-radius: 30px;
+    color: #ffffff;
+}
+.moreOne:hover{
+    background: #ffffff;
+    color: #aacd03;
+}
+.moreTwo:hover{
+    background: #ffffff;
+    color: #72af2d;
+}
+.moreThree:hover{
+    background: #ffffff;
+    color: #34925c;
+}
+.moreFour:hover{
+    background: #ffffff;
+    color: #006d5d;
+}
+
+
+

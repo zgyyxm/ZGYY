@@ -1,0 +1,53 @@
+
+.Tab2{
+    width: 500px;
+    height: 500px;
+    clear: both;
+}
+.Ul2{
+    width:90%;
+    height:100%;
+    margin: auto;
+    overflow: hidden;
+    text-align: left;
+}
+.Ul2>li:first-child{
+    color: #2e7ad6;
+
+}
+.Ul2 li{
+    width:100%;
+    height: 80px;
+    margin-top: 30px;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+.Img{
+    float: left;
+    width: 120px;
+    height: 80px;
+}
+.Img>img{
+    width:100%;
+    height:100%;
+}
+.Ul2 li >p{
+    float: left;
+    width:50%;
+    word-wrap: break-word;
+    margin-left: 20px;
+}
+.font{
+    float: left;
+    width:100%;
+    height:20px;
+    line-height: 20px;
+    color: #2e7ad6;
+    text-align: right;
+    margin-top: 20px;
+}
+.font>a{
+    padding: 5px;
+    border: 1px solid ;
+    border-radius: 3px;
+}

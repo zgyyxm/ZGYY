@@ -1,0 +1,6 @@
+{
+  "name":"Holle",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Holle.js"
+}

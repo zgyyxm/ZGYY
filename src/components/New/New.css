@@ -1,0 +1,14 @@
+@import '~antd/dist/antd.css';
+.box{
+    width: 400px;
+    height:500px;
+}
+.Ul2{
+    border-top: none;
+}
+.ant-tabs-tab-active{
+    font-size: 20px;
+}
+.ant-tabs-tab{
+    font-size: 20px;
+}

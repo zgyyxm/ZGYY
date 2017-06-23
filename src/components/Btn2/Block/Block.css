@@ -1,0 +1,33 @@
+
+.disOne{
+    width: 450px;
+    float: left;
+    display: block;
+    padding: 0px 10px;
+
+}
+.leftcon{
+    width: 450px;
+    height: 70px;
+
+}
+.leftcon>div:nth-child(1){
+    width: 6px;
+    height: 7px;
+    background: #da4453;
+    float: left;
+    margin-top: 7px;
+}
+.leftcon>div:nth-child(2){
+    float: right;
+    width: 435px;
+}
+.leftcon>div:nth-child(2)>h4{
+    font-size:22px;
+    color:#222222;
+}
+.leftcon>div:nth-child(2)>p{
+    font-size:13px;
+    color:#222222;
+    margin-top: 10px;
+}

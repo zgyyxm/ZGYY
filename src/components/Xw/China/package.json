@@ -1,0 +1,6 @@
+{
+  "name": "China",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./China.js"
+}
